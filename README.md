@@ -11,5 +11,6 @@ apres d’afficher comme une liste le nom de tous les pays que on recupere via l
 
 
 J’utilise: HTML/CSS/Bootstrap/JS Ajax
+
 prochaine etape afficher les informations du pays que nous choisissons.
 Pour ce faire, nous allons laisser à l’utilisateur la possibilité de cliquer sur le pays de son choix, puis afficher une carte avec quelques informations que nous recevons par le biais d’un autre appel API (http://restcountries.eu/#api-endpoints-name).
