@@ -1,0 +1,35 @@
+body{
+    background-color: #333333;
+    color: white;
+    width: 50%;
+    margin: auto;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+}
+main{
+    text-align: center;
+}
+
+
+#listul{
+    list-style-type: none;
+    visibility: hidden;
+}
+#secondList{
+    color: black;
+}
+  input{
+    outline: none;
+}  
+
+.divjs{
+    background-color: white;
+    color: black;
+}
+img{
+    width: 250px;
+    height: 150px;
+}
