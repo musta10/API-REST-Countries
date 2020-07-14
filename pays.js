@@ -64,15 +64,6 @@ req.onreadystatechange = function (aEvt) {
         }
         input.value.toUpperCase();
       }
-
-/*       for (var i = 0; i < data.length; i++) {
-        var list = document.createElement('li');
-        list.innerHTML = data[i].name;
-
-        Ullist.appendChild(list);
-        list.className = 'btn btn-outline-secondary';
-      } */
-
     }
 
   }
